@@ -1,0 +1,7 @@
+numpy
+pytorch-lightning
+lightning-flash
+torch
+torchmetrics
+torchvision
+tqdm
